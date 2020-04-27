@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: PHP",
+  "description": "Deploy simple php to Heroku with Terraform",
+  "repository": "https://github.com/ilosaurus/php-getting-started",
+  "addons": []
+}
